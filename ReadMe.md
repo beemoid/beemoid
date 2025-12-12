@@ -5,8 +5,9 @@
 ---
 
 - 💻 **Programming:** Laravel, Node.js, Express.js, React.js, Electron.js  
-- 🌐 **Networking:** Cisco, Mikrotik, Routing, Switching  
-- 🏔️ **Hiker at heart**
+- 🌐 **Networking:** Cisco, Fortigate, Mikrotik, Routing, Switching  
+- 🏔️ **Hiker**
+- [![Alt text for the logo](path/to/your/logo.png)](https://companieslogo.com/img/orig/FTNT-745f92ba.png?t=1720244491)
 
 ---
 
